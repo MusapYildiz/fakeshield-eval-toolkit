@@ -35,10 +35,11 @@ Değerlendirme aşağıdaki veri setleri üzerinde yapılmıştır:
 ![Manuel değerlendirme arayüzü örneği](docs/viewer_screenshot.png)
 
 ## Kurulum
-\`\`\`bash
+
+```bash
 export FAKESHIELD_DIR=/path/to/your/FakeShield
 bash fakeshield_setup.sh
-\`\`\`
+```
 
 ## Bulgular
 FakeShield, splicing tespitinde güçlü performans gösterirken inpainting/object-removal ve AI-generated içerik tespitinde belirgin zayıflık sergiledi.
