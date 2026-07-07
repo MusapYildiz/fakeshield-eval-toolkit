@@ -1,0 +1,30 @@
+# Model ağırlıkları / checkpoint'ler
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.ckpt
+
+# Dataset arşivleri
+*.zip
+*.tar
+*.tar.gz
+
+# Görüntü/medya
+*.jpg
+*.jpeg
+*.png
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ortam / gizli bilgiler
+.env
+*.key
+*.pem
+
+# Log ve geçici dosyalar
+*.log
+logs/
